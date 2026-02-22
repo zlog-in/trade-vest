@@ -123,3 +123,20 @@ Schema 命名约定如下：
 | **Transactions** | 金融操作历史记录 |
 
 > [!NOTE] 原文 Overview 页仅列出上述 6 个域，但 API Reference 侧边栏中实际还包含 **Transfers**（转账）、**Documents**（文档）、**Partner Documents**（合作方文档）等模块，与此处列表不完全一致。
+
+## API Reference
+
+- [Authorization](https://docs.tradevest.ai/api-reference/authorization) — 认证授权
+- [User Management](https://docs.tradevest.ai/api-reference/user-management/users) — 用户管理
+- [Entities](https://docs.tradevest.ai/api-reference/entities) — 实体管理
+- [Roles](https://docs.tradevest.ai/api-reference/roles) — 角色管理
+- [Documents v2](https://docs.tradevest.ai/api-reference/documents/new-documents) — 文档管理
+- [Products](https://docs.tradevest.ai/api-reference/products/product-definitions-and-fees) — 产品定义与费用
+- [Customer Products](https://docs.tradevest.ai/api-reference/products/customer-products) — 客户产品
+- [Taxes](https://docs.tradevest.ai/api-reference/taxes/information) — 税务信息
+- [Asset Management](https://docs.tradevest.ai/api-reference/asset-management) — 资产管理 / 交易
+- [Transaction History](https://docs.tradevest.ai/api-reference/transaction-history) — 交易历史
+- [Transfers](https://docs.tradevest.ai/api-reference/transfers/transfers) — 转账
+- [Partner Documents](https://docs.tradevest.ai/api-reference/partner-documents) — 合作方文档
+- [Webhooks](https://docs.tradevest.ai/api-reference/webhooks) — Webhook 管理
+- [Changelogs v2](https://docs.tradevest.ai/api-reference/changelogs/new-changelogs) — API 变更日志

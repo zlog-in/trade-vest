@@ -286,3 +286,8 @@ PATCH /entities/natural-persons/{naturalPersonId}
 > [!NOTE] 原文未提及与受益所有人更新流程类似的 "person basic data 全局更新" 机制。在 BO 更新中，个人信息变更会通过 global ID 影响所有引用该人员的记录，但此文档未说明自然人更新是否有相同的全局传播效果。
 
 > [!NOTE] 原文未明确列出 Admin Task 的具体类型名称（如是否有 `NATURAL_PERSON_UPDATE` 类型）和完整的决策选项，仅描述了管理员可以批准或拒绝。
+
+## API Reference
+
+- [Natural Persons](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/natural-persons) — 自然人 CRUD 接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

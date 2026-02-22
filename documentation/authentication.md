@@ -78,3 +78,7 @@ Authorization: Bearer <your_access_token>
 - Create legal entity customer / prepare legal entity
 
 > [!NOTE] 原文提到："The logic with the validation of permissions to perform a specific command will be added in the future."（权限校验逻辑将在未来添加）——说明当前 `Requestor-ID` 仅用于标识请求发起者，尚未实际做权限校验。
+
+## API Reference
+
+- [Authorization — Get Token](https://docs.tradevest.ai/api-reference/authorization) — OAuth Token 端点

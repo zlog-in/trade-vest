@@ -102,3 +102,8 @@
 | `REJECTED` | 验证失败 |
 
 Partner 通过 **Document Notification** Webhook 接收所有状态变更通知。
+
+## API Reference
+
+- [Documents v2](https://docs.tradevest.ai/api-reference/documents/new-documents) — 文档管理接口 (v2)
+- [Documents Schemas v2](https://docs.tradevest.ai/api-reference/documents/new-schemas) — 文档数据结构定义 (v2)

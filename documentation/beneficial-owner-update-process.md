@@ -207,3 +207,8 @@ PATCH /entities/beneficial-owners/{beneficialOwnerId}
 | 业务结果路径 | 4 种 | 3 种 |
 | Share/Voting 校验基准 | 仅校验提交值 | 综合当前值与更新值 |
 | Person Basic Data | 新建或复用全局记录 | 通过 global ID 更新现有记录 |
+
+## API Reference
+
+- [Beneficial Owners](https://docs.tradevest.ai/api-reference/entities/beneficial-owners) — 受益所有人接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

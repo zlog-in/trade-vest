@@ -240,3 +240,11 @@
 
 - [Natural Person Create Process](./natural-person-create-process.md) — 创建流程、校验、重复检测、合规审查
 - [Natural Person Update Process](./natural-person-update-process.md) — 更新流程、文档要求、受限字段、Death Day 特殊流程
+
+### API Reference
+
+- [Natural Persons](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/natural-persons) — 自然人 CRUD 接口
+- [Identification](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/identification) — 身份识别接口
+- [Trading Profile](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/trading-profiles) — 交易档案接口
+- [Appropriateness Test](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/appropriateness-test) — 适当性测试接口
+- [Joint Persons](https://docs.tradevest.ai/api-reference/entities/joint-persons) — 联名人接口

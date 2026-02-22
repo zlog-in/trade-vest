@@ -45,3 +45,8 @@
 3. 登录成功后，系统会要求用户重新配置 authenticator 应用，`mfaType` 将自动恢复
 
 > [!NOTE] 原文第 16 句 "SMS will be **send** to telephone number" 语法有误，应为 "SMS will be **sent**"。
+
+## API Reference
+
+- [Users](https://docs.tradevest.ai/api-reference/user-management/users) — 用户 CRUD 接口
+- [User Management Schemas](https://docs.tradevest.ai/api-reference/user-management/schemas) — 数据结构定义

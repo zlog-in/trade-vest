@@ -233,3 +233,8 @@ POST /roles/proxies
 | scopeType/custodyType 文档 | 无文档要求 | 变更时需提供 `documentId` |
 | GUARDIAN 成年校验 | 有（18+） | 未提及 |
 | 自代理防止 | 校验 `NP ID ≠ Entity ID` | 不适用（字段不可更新） |
+
+## API Reference
+
+- [Proxies](https://docs.tradevest.ai/api-reference/roles/proxies) — 代理人接口
+- [Roles Schemas](https://docs.tradevest.ai/api-reference/roles/schemas) — 角色数据结构定义

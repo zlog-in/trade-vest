@@ -179,3 +179,9 @@ POST /v2/documents
 - Legal Entity Update Process — 法人实体更新流程
 - [Beneficial Owner Create Process](./beneficial-owner-create-process.md) — 受益所有人创建流程
 - [Beneficial Owner Update Process](./beneficial-owner-update-process.md) — 受益所有人更新流程
+
+### API Reference
+
+- [Legal Entities](https://docs.tradevest.ai/api-reference/entities/legal-entities) — 法人实体接口
+- [Search NACE Sectors](https://docs.tradevest.ai/api-reference/entities/search-nace-sectors) — NACE 行业分类查询接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

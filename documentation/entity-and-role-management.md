@@ -161,5 +161,13 @@ GET /entities?limit=50&cursor=next_page_token
 - [Natural Person Management](./natural-person-management.md) — 自然人管理与准备
 - [Legal Entity Management](./legal-entity-management.md) — 法人实体管理
 - [Role Management](./role-management.md) — 角色管理与分配
-- Onboarding — 入驻流程
-- Document Management — 文档管理
+- [Onboarding](./onboarding.md) — 入驻流程、异步校验、KYC
+- [Offboarding](./offboarding.md) — 离场流程、级联效应、Ordinary/Immediate
+- [Document Management](./document-management.md) — 文档管理
+
+### API Reference
+
+- [Entities](https://docs.tradevest.ai/api-reference/entities) — 实体管理接口总览
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义
+- [Roles](https://docs.tradevest.ai/api-reference/roles) — 角色管理接口总览
+- [Roles Schemas](https://docs.tradevest.ai/api-reference/roles/schemas) — 角色数据结构定义

@@ -290,3 +290,8 @@ CREATED 状态不触发任何审核，直接更新。
 **触发条件：** 所有校验通过，无审核触发条件（CREATED 状态下始终走此路径）
 
 **影响：** 法人实体数据更新成功，Partner 通过 Webhook 收到成功通知
+
+## API Reference
+
+- [Legal Entities](https://docs.tradevest.ai/api-reference/entities/legal-entities) — 法人实体接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

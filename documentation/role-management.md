@@ -104,3 +104,10 @@
 - [Proxy Create Process](./proxy-create-process.md) — 代理人创建校验与规则
 - [Proxy Update Process](./proxy-update-process.md) — 代理人更新流程
 - [Onboarding](./onboarding.md) — 入驻流程、验证、KYC
+
+### API Reference
+
+- [Customers](https://docs.tradevest.ai/api-reference/roles/customers) — 客户角色接口
+- [Customer Labels](https://docs.tradevest.ai/api-reference/roles/customer-labels) — 客户标签接口
+- [Proxies](https://docs.tradevest.ai/api-reference/roles/proxies) — 代理人接口
+- [Roles Schemas](https://docs.tradevest.ai/api-reference/roles/schemas) — 角色数据结构定义

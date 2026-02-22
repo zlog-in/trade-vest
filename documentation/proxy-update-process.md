@@ -249,3 +249,8 @@ PUT /roles/proxies/{proxyId}
 | `ACTIVE` | 活跃状态，不允许变更 proxyType |
 
 > [!NOTE] 原文仅列出 CREATED 和 ACTIVE 两种状态，未提及其他可能的状态值。
+
+## API Reference
+
+- [Proxies](https://docs.tradevest.ai/api-reference/roles/proxies) — 代理人接口
+- [Roles Schemas](https://docs.tradevest.ai/api-reference/roles/schemas) — 角色数据结构定义

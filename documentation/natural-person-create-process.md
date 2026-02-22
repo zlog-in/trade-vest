@@ -235,3 +235,8 @@ POST /entities/natural-persons
 | 特有字段 | `email`, `phone`, `naceSectors` | `uboRelationship`, `share`, `votingRights` | `function`, `soleSignatureAuthorized` |
 | Admin Task (精确匹配) | `NATURAL_PERSON_CREATE` | `BENEFICIAL_OWNER_CREATE` | `LEGAL_REPRESENTATIVE_CREATE` |
 | 地域合规 | 非白名单可能触发审核 | 非白名单直接拒绝 | 非白名单直接拒绝 |
+
+## API Reference
+
+- [Natural Persons](https://docs.tradevest.ai/api-reference/entities/natural-persons-directory/natural-persons) — 自然人 CRUD 接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

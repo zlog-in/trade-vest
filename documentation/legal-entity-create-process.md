@@ -276,3 +276,9 @@ POST /entities/legal-entities
 
 ### 状态规则
 - 新法人实体以 `CREATED` 状态创建
+
+## API Reference
+
+- [Legal Entities](https://docs.tradevest.ai/api-reference/entities/legal-entities) — 法人实体接口
+- [Search NACE Sectors](https://docs.tradevest.ai/api-reference/entities/search-nace-sectors) — NACE 行业分类查询接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

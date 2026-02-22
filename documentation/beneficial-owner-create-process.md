@@ -293,3 +293,8 @@ POST /entities/{legalEntityId}/beneficial-owners
 - 此自动流程**仅在入驻流程中触发**，不影响手动创建
 - 确保即使无人持有 ≥25% 股份，也能满足监管对受益所有权记录的要求
 - FICTIVE_UBO 基于法定代表人自动生成，无需人工干预
+
+## API Reference
+
+- [Beneficial Owners](https://docs.tradevest.ai/api-reference/entities/beneficial-owners) — 受益所有人接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义

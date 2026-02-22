@@ -282,3 +282,8 @@ POST /entities/{legalEntityId}/legal-representatives
 | Admin Task (精确匹配) | `BENEFICIAL_OWNER_CREATE` | `LEGAL_REPRESENTATIVE_CREATE` |
 | FATCA 条件校验 | 始终校验 | 仅当 `fatcaControllingPerson = TRUE` 时需 `taxDetails` |
 | 类型 | `REAL_UBO_25` (固定) | 由 `function` 枚举决定 |
+
+## API Reference
+
+- [Legal Representatives](https://docs.tradevest.ai/api-reference/entities/legal-representatives) — 法定代表人接口
+- [Entities Schemas](https://docs.tradevest.ai/api-reference/entities/schemas) — 实体数据结构定义
