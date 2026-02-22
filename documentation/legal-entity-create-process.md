@@ -116,10 +116,6 @@ POST /entities/legal-entities
 | NACE 行业 | 列表不可为空，不可包含重复项 |
 | `externalId` 唯一性 | 在 Partner 范围内必须唯一 |
 
-> [!NOTE] 原文 FATCA 规则处有两处笔误：
-> - "if **filed** fatcaClassification" 应为 "if **field** fatcaClassification"
-> - "activeNfeType **fields is** not empty" 应为 "activeNfeType **field is** not empty"
-
 ### 2. 异步业务校验（Asynchronous）
 
 端点返回成功响应后异步执行，结果通过 **Webhook** 通知。

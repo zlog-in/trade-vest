@@ -102,8 +102,6 @@ Schema 命名约定如下：
 - 请求正确且通过完整校验 → 修改实体的状态和数据
 - 校验失败 → 实体**不会被修改**，通过 webhook 通知合作方拒绝原因（该 webhook **不包含 `status` 和 `modifiedOn` 字段**）
 
-> [!NOTE] 原文语法疑似有误：原文为 "webhook which **not contains** status and modifiedOn"，应为 "which **does not contain**"。
-
 #### 清理机制
 
 - RECEIVED 和 INVALID 状态的实体最终会被平台**自动移除**

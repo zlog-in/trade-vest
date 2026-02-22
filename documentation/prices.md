@@ -159,9 +159,6 @@ Tradevest API 提供基于 **WebSocket** 的实时数字资产价格订阅端点
 | `WebSocketRequest` | 请求消息包装器（`PRICE_SUBSCRIPTION`） |
 | `WebSocketResponse` | 响应消息包装器（`PRICES` / `ERROR`），通过 `type` 字段区分 |
 
-> [!NOTE]
-> 原文中 `connectionId` 说明存在拼写错误："error occurence" 应为 "error occurrence"。
-
 ---
 
 ## 相关文档
